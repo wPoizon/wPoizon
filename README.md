@@ -5,6 +5,7 @@
 # Hi 👋 
 
 My name is **William** but I often go by the name **Poizon** online. I'm a computer engineering student and tech enthusiast passionate about many things such as:
+- Problem solving using programming
 - CAD and 3D-printing
 - Embedded Systems
 - Servers
